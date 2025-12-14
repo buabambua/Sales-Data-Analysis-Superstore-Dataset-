@@ -30,16 +30,49 @@ These metrics indicate that while the company maintains profitability, a relativ
 - This suggests that consumer-focused sales strategies are currently the most effective revenue and profit drivers.
 
    # Regional Performance
-- Sales and profit vary substantially across regions.
-- Some regions achieved high sales volumes but relatively low profits, implying possible over-discounting or higher operational costs.
+Based on the aggregation of sales and profit by region, the following insights were identified:
 
+- The West region generated the highest total sales and total profit,
+indicating strong sales volume combined with an efficient cost structure.
+
+- The East region achieved relatively high sales; however, its profit was lower than that of the West,
+suggesting higher operational costs or more aggressive discounting.
+
+- The Central and South regions recorded the lowest profit margins.
+Although some states in these regions achieved moderate sales volumes, overall profitability remained low or close to zero.
+
+# 📌 Key Insight
+“High sales volume does not necessarily translate into strong profitability. This is particularly evident in the Central and South regions, where pricing strategies or excessive discounting may be negatively impacting profit performance.”
+   
    # Product-Level Insights
-- Certain products generated high sales but resulted in negative profit.
-- This indicates that sales volume alone does not guarantee profitability and that pricing or cost structures for these products should be reviewed.
+At the product and category level, the analysis shows that:
+
+- The Technology and Office Supplies categories generated strong overall profitability.
+
+- The Furniture category presents a higher level of risk.
+Several furniture products achieved high sales volumes but resulted in negative profit,
+especially large items with high shipping and logistics costs.
+
+# 📌 Key Insight
+“High sales in the Furniture category do not translate into business value, as high costs and aggressive discounting significantly erode profitability.”
+
+This represents a classic case of:
+# High Revenue, Low (or Negative) Profit
+which serves as a critical warning signal for management.
 
   # Shipping & Operations
-- Average shipping time differs by Ship Mode.
-- Faster shipping options may increase customer satisfaction but could also increase costs, which may impact profit margins if not managed carefully.
+Based on the analysis of ship modes and shipping time:
+
+# Standard Class
+Has the longest delivery time but the lowest cost, making it suitable for regular orders.
+# Second Class / First Class
+Offer shorter delivery times at higher operational costs.
+# Same Day
+Provides the fastest delivery but incurs significantly higher costs relative to order value.
+
+# 📌 Key Insight
+“Faster shipping does not automatically lead to higher profitability and may reduce profit margins when applied to low-value orders or low-margin products.”
+
 
 # Risks and Issues Identified
 - Presence of loss-making products that negatively impact overall profitability.
