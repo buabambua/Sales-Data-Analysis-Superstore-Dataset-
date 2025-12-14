@@ -5,10 +5,10 @@ This project analyzes the Superstore sales dataset to understand the company’s
 The analysis reveals that the company is profitable overall, generating approximately $2.30 million in total revenue and $286.4 thousand in total profit, resulting in an overall profit margin of 12.4%. However, profitability varies significantly across segments, regions, and products, indicating opportunities for strategic improvement.
 
 # Data Overview
-# - Number of rows: 9,994
-# - Number of columns: 21
-# - Key variables include Order Date, Ship Date, Region, Segment, Sales, Profit, and Discount.
-# - Missing values were found only in the Postal Code column, which was not critical for the main analysis and therefore left unchanged.
+- Number of rows: 9,994
+- Number of columns: 21
+- Key variables include Order Date, Ship Date, Region, Segment, Sales, Profit, and Discount.
+- Missing values were found only in the Postal Code column, which was not critical for the main analysis and therefore left unchanged.
 
 # Data Preparation
 During data preparation, the dataset was examined for structure, data types, and missing values.
@@ -17,9 +17,9 @@ A new feature, Shipping Time (Days), was created to analyze delivery efficiency.
 Missing values were found only in the Postal Code column and were not imputed, as they did not affect the main financial and operational analyses.
 
 # Key Financial Metrics
-# - Total Revenue: $2.30M
-# - Total Profit: $286.4K
-# - Overall Profit Margin: ~12.4%
+- Total Revenue: $2.30M
+- Total Profit: $286.4K
+- Overall Profit Margin: ~12.4%
 
 These metrics indicate that while the company maintains profitability, a relatively modest profit margin suggests potential inefficiencies related to costs, discount strategies, or operational processes.
 
@@ -46,7 +46,9 @@ These metrics indicate that while the company maintains profitability, a relativ
 - Uneven regional performance, with some states contributing minimal sales.
 - Discount levels may be reducing profit margins without sufficiently increasing sales volume.
 
+
 # Recommendations
+
 # Based on the analysis, the following actions are recommended:
 
 # 1. Optimize Discount Strategy
@@ -60,6 +62,7 @@ Consider discontinuing or repricing underperforming products that generate losse
 
 # 4. Operational Efficiency Improvement
 Evaluate shipping modes to balance delivery speed and cost efficiency.
+
 
 # Limitations and Future Work
 
